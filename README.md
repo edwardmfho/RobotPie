@@ -4,10 +4,6 @@
 [![Issues][issues-shield]][issues-url]
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
-![spacy 2.3.2](https://img.shields.io/badge/spacy-2.3.2-green.svg?style=plastic)
-![nltk 3.4.5](https://img.shields.io/badge/nltk-3.4.5-green.svg?style=plastic)
-![boilerpy3 1.0.2](https://img.shields.io/badge/boilerpy3-1.0.2-green.svg?style=plastic)
-![textblob 0.15.3](https://img.shields.io/badge/textblob-0.15.3-green.svg?style=plastic)
 ![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=plastic)
 
 <br />

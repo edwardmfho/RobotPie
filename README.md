@@ -106,7 +106,7 @@ Alternatively, if you are not a programmer but would still like to contribute to
 <!-- KNOWN ISSUES -->
 
 ## Known Issues
-* Websites that lack any text content will not return any results
+* TinyYOLO, a lighter model cannot detect objects due to possible issue with parameters settings. 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
